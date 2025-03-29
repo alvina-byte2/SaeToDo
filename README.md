@@ -14,7 +14,7 @@ Minimalist UI: Clean and simple user experience
 State Management: Implemented using React hooks
 
 ### Tech Stack
-Frontend: React Native (JavaScript)
+Frontend: React Native (JavaScript & Typescript)
 
 Backend: Firebase Firestore (NoSQL database)
 
