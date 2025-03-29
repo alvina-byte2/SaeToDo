@@ -37,7 +37,7 @@ Firebase account with Firestore enabled
 Steps to Run Locally
 1) Clone the repository:
 
-git clone https://github.com/yourusername/task-manager-prayer-times.git
+git clone https://github.com/alvina-byte2/SaeToDo.git
 cd task-manager-prayer-times
 
 
